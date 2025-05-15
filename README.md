@@ -5,4 +5,7 @@
 - Interests: Deep Learning, Transformers, RAG, Hugging Face, Prompt Engineering, Deployments.
 - Let's build something amazing!
 
-- 📫 How to reach me skianam@gmail.com and @s_kianam on Telegram
+- 📫 How to reach me:
+-   My Gmail: skianam@gmail.com
+-   My Telegram account: @s_kianam
+-   My Linkedin: https://www.linkedin.com/in/saeed-kianam-b47920185
