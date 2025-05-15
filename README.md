@@ -6,6 +6,6 @@
 - Let's build something amazing!
 
 - 📫 How to reach me:
--   My Gmail: skianam@gmail.com
--   My Telegram account: @s_kianam
--   My Linkedin: https://www.linkedin.com/in/saeed-kianam-b47920185
+-   \tab My Gmail: skianam@gmail.com
+-   \tab My Telegram account: @s_kianam
+-   \tab My Linkedin: https://www.linkedin.com/in/saeed-kianam-b47920185
